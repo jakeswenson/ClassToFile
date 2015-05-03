@@ -6,12 +6,12 @@
     <title>ClassToFile</title>
     <authors>Jake Swenson</authors>
     <owners>Jake Swenson</owners>
-    <licenseUrl>http://LICENSE_URL_HERE_OR_DELETE_THIS_LINE</licenseUrl>
-    <projectUrl>http://PROJECT_URL_HERE_OR_DELETE_THIS_LINE</projectUrl>
+    <licenseUrl>https://raw.githubusercontent.com/jakeswenson/ClassToFile/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/jakeswenson/ClassToFile</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description>ClassToFile</description>
-    <copyright>Copyright</copyright>
-    <tags>ClassToFile, analyzers</tags>
+    <description>A C# code fix to move a class to a new file (or rename to current file to match)</description>
+    <copyright>Copyright Jake Swenson</copyright>
+    <tags>C#-CodeFix, CodeFix, analyzers</tags>
     <frameworkAssemblies>
       <frameworkAssembly assemblyName="System" targetFramework="" />
     </frameworkAssemblies>
